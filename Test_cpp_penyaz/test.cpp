@@ -12,6 +12,8 @@ bool flip_over_180(const char* filename, unsigned char* pixels, int width, int h
 bool colors_inverting(const char* filename, unsigned char* pixels, int width, int height);
 bool color_changing(const char* filename, unsigned char* pixels, int width, int height);
 
+// TEST COMMENT
+
 int main(int argc, char* argv[]) {
 
     setlocale(LC_ALL, "ru");
