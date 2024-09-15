@@ -12,7 +12,7 @@ bool flip_over_180(const char* filename, unsigned char* pixels, int width, int h
 bool colors_inverting(const char* filename, unsigned char* pixels, int width, int height);
 bool color_changing(const char* filename, unsigned char* pixels, int width, int height);
 
-// TEST COMMENT
+// TEST COMMENT = dev1
 
 int main(int argc, char* argv[]) {
 
